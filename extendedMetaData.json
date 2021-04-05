@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://github.com/MMA-stakepool/poolMetaData.json/blob/main/logoLetters-min.png",
-		"url_png_logo": "https://github.com/MMA-stakepool/poolMetaData.json/blob/main/logoLetters-min.png",
+		"url_png_icon_64x64": "",
+		"url_png_logo": "",
 		"location": "Munich, Germany",
 		"social": {
 			"twitter_handle": "mma_stake_pool",
