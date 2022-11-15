@@ -14,8 +14,7 @@
 		},
 		"about": {
 			"me": "Run by young couple out of St Kilda Australia, industry experience in IT-consulting and Telecommunications",
-			"server": "Microsoft Azure servers for high reliability and home raspberry pi for geo-decentralization",
-			"mission": "Clean seas"
+			"server": "Bare metal Mac mini M1 with ARM based relays in Europe and Australia",
 		},
 		"my-pool-ids": {
 			"0": "f1ae552b032c2d87a416f4067eaf4636b3fe5e80230a1f63aa33f6bc"
