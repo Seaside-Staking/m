@@ -1,7 +1,7 @@
 {
 	"info": {
-		"url_png_icon_64x64": "https://git.io/J1d4a",
-		"url_png_logo": "https://git.io/J1xFv",
+		"url_png_icon_64x64": "https://raw.githubusercontent.com/Seaside-Staking/m/main/logo64.png",
+		"url_png_logo": "https://raw.githubusercontent.com/Seaside-Staking/m/main/Logo_comp.png",
 		"location": "St Kilda Australia",
 		"social": {
 			"twitter_handle": "SeasideStaking",
@@ -13,7 +13,7 @@
 			"github_handle": ""
 		},
 		"about": {
-			"me": "Run by young couple out of St Kilda Australia, industry experience in IT-consulting and Telecommunications",
+			"me": "Run by young couple out of St Kilda Australia, PhD candidate in blockchain and distributed systems, industry experience in IT-consulting and Telecommunications",
 			"server": "Bare metal Mac mini M1 with ARM based relays in Europe and Australia",
 		},
 		"my-pool-ids": {
